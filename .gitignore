@@ -1,1 +1,4 @@
-.project
+ClassB.java
+.class
+/target/*
+.classpath
